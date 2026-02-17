@@ -1,0 +1,325 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=Uszj_k0DGsg",
+  "video_id": "Uszj_k0DGsg",
+  "analysis_date": "2026-02-17T13:41:44.688544",
+  "video_details": {
+    "video_id": "Uszj_k0DGsg",
+    "title": "Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git",
+    "description": "Git has the power to make you a better software developer. But you'll have to go beyond the basic \"commit, push, pull\" to use it effectively! In this course, we'll look at some of the more advanced concepts and tools to make you more productive and confident with Git.\n\nThis course focuses on using Git with the command line.\n\n\u270f\ufe0f This course was created by Tobias G\u00fcnther from Tower. You can download Tower's Git desktop UI here: https://www.git-tower.com\n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\n\u2328\ufe0f (00:00) Introduction\n\u2328\ufe0f (00:52) Hosted by Tower\n\u2328\ufe0f (01:27) The perfect commit\n\u2328\ufe0f (08:07) Branching strategies\n\u2328\ufe0f (17:16) Pull requests\n\u2328\ufe0f (24:07) Merge conflicts\n\u2328\ufe0f (33:48) Merge vs. rebase\n\u2328\ufe0f (40:05) The Advanced Git Kit: https://www.git-tower.com/learn/git/advanced-git-kit/\n\nCorrection:\n23:37 Do NOT create a pull request to the Rails repo. This is just a demonstration and every frivolous PR creates extra work for their volunteer team. \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp",
+    "published_at": "2021-09-30T13:25:20Z",
+    "duration": "PT40M42S",
+    "view_count": 1874098,
+    "like_count": 43033,
+    "comment_count": 508,
+    "tags": [],
+    "comments": [
+      {
+        "author": "@tdew11",
+        "text": "Your voice was so relaxing it put me to sleep but when I woke up I knew how rebasing works, so thank you!",
+        "like_count": 829,
+        "published_at": "2021-09-30T15:30:51Z"
+      },
+      {
+        "author": "@architjain6749",
+        "text": "&quot;You can live a happy Git life just using merge&quot;, I felt it!",
+        "like_count": 49,
+        "published_at": "2021-10-14T11:57:17Z"
+      },
+      {
+        "author": "@fireballgfx",
+        "text": "I was not aware of the -p parameter who give me the ability to add only a specific part to the staging area.",
+        "like_count": 227,
+        "published_at": "2021-10-01T12:39:30Z"
+      },
+      {
+        "author": "@josephgutierrez8430",
+        "text": "40 minutes sounds like a long time, but it was all jam packed with legitimate information and no fluff. Great video. Watched the whole thing and didn&#39;t even notice the time.",
+        "like_count": 285,
+        "published_at": "2021-10-07T01:01:27Z"
+      },
+      {
+        "author": "@iTor",
+        "text": "I closed my eyes for a moment there and I believe it was truly Christoph Waltz teaching me about Git.",
+        "like_count": 20,
+        "published_at": "2023-08-22T13:50:59Z"
+      },
+      {
+        "author": "@braulioandre2918",
+        "text": "I&#39;ve just realized I didn&#39;t know Git at all lol. Thank so much for this.",
+        "like_count": 42,
+        "published_at": "2021-09-30T21:22:18Z"
+      },
+      {
+        "author": "@talkohavy",
+        "text": "I consider myself as pretty profficiant with git,<br>yet I&#39;m doing this thing where i&#39;m occasionally revisiting known technologies to maybe learn some new things.<br>Anyhow, just I wanted to say that this 40-minutes long video was ALL WORTH IT just for the sake of learning about the git add with the -p flag to only mark some parts of a file to be included in the commit :) Love it! definitely gonna use it in the future\u2665 Thank you!",
+        "like_count": 218,
+        "published_at": "2022-08-09T21:37:48Z"
+      },
+      {
+        "author": "@Exorcisamus",
+        "text": "asmr is strong with this one<br>such a calming voice",
+        "like_count": 3,
+        "published_at": "2022-03-31T16:24:16Z"
+      },
+      {
+        "author": "@AminAlSharif",
+        "text": "A new parent is introduced when rebasing is a gem from you. Now it clicked! <br>You&#39;re naturally an outstanding teacher, the style, the tone control, the prepared material. I salute you \ud83d\ude4f",
+        "like_count": 0,
+        "published_at": "2025-12-26T11:21:19Z"
+      },
+      {
+        "author": "@khalidelgazzar",
+        "text": "One of the greatest git videos. Watched it a long while ago and came back after an ill-fated project to refresh",
+        "like_count": 0,
+        "published_at": "2025-11-09T06:36:44Z"
+      },
+      {
+        "author": "@HardSoftFilmsHSF",
+        "text": "Thank you for the info Jesse. Now let&#39;s get back to cooking.",
+        "like_count": 2,
+        "published_at": "2022-05-23T12:12:52Z"
+      },
+      {
+        "author": "@fgbv-l7h",
+        "text": "I\u2019ve struggled with this for so long. You saved me!",
+        "like_count": 0,
+        "published_at": "2025-01-18T09:38:15Z"
+      },
+      {
+        "author": "@erikgrundy",
+        "text": "I&#39;m quite a big fan of &quot;git add -i&quot;. This lets you do all the hunk-specific addition, while avoiding having to retype commands",
+        "like_count": 6,
+        "published_at": "2021-10-09T10:08:35Z"
+      },
+      {
+        "author": "@rajat_singla",
+        "text": "I wish I had such clarity of mind as the person explaining these concepts",
+        "like_count": 0,
+        "published_at": "2022-02-14T06:05:10Z"
+      },
+      {
+        "author": "@atharvaathalye",
+        "text": "Man. My boss just told me to learn git and then I saw notification for this video.",
+        "like_count": 1,
+        "published_at": "2021-09-30T14:02:36Z"
+      },
+      {
+        "author": "@takeiteasydragon",
+        "text": "I just can&#39;t believe such great video is just free to everyone.",
+        "like_count": 0,
+        "published_at": "2024-07-07T18:42:28Z"
+      },
+      {
+        "author": "@vandana1145",
+        "text": "The way you narrated the whole concept is so awesome, everything got stick to the mind perfectly. Thanks for this beautiful content.",
+        "like_count": 75,
+        "published_at": "2021-10-01T09:07:53Z"
+      },
+      {
+        "author": "@stephikebudu",
+        "text": "Glad I watched till the end. Finally understood git rebase. Thank you\ud83d\udc4d\ud83c\udffd",
+        "like_count": 0,
+        "published_at": "2025-03-23T21:45:08Z"
+      },
+      {
+        "author": "@itspersie",
+        "text": "most valuable channel on yt for me rn \u2728<br>thanks \ud83e\udd27",
+        "like_count": 3,
+        "published_at": "2021-09-30T22:38:32Z"
+      },
+      {
+        "author": "@zachsandvik1867",
+        "text": "My compliments to the speaker. You are a very good teacher. Speaking in a relaxed way makes listening to you a huge pleasure in following your explanations. Top!!!",
+        "like_count": 10,
+        "published_at": "2021-11-04T09:09:02Z"
+      },
+      {
+        "author": "@DonJerry-p1m",
+        "text": "The way you explained this made it so easy to understand. \ud83e\udde0",
+        "like_count": 0,
+        "published_at": "2025-02-15T22:11:53Z"
+      },
+      {
+        "author": "@edhead76",
+        "text": "this was such a great course and I love that it&#39;s only 40 minutes. i learned so much and it&#39;s helping me overcome my git fears.",
+        "like_count": 0,
+        "published_at": "2024-12-21T02:54:18Z"
+      },
+      {
+        "author": "@Bellathor",
+        "text": "Fantastic video, nice explanations. Thank you. :)",
+        "like_count": 4,
+        "published_at": "2022-12-10T19:17:09Z"
+      },
+      {
+        "author": "@GhostStyle007",
+        "text": "A very important consideration when you start spliting a file into multiple commits is to be very careful about not breaking or creating errors into one of the two generated commits, especially if a CI pipeline is using them.",
+        "like_count": 39,
+        "published_at": "2022-10-12T09:26:30Z"
+      },
+      {
+        "author": "@bitterthread6794",
+        "text": "The first few lines made me already confident",
+        "like_count": 1,
+        "published_at": "2021-10-01T14:45:47Z"
+      },
+      {
+        "author": "@GarimellaProduction",
+        "text": "working with git  a lot these days and this is great. I have gotten more comfortable with rebase and merge requests",
+        "like_count": 0,
+        "published_at": "2024-03-07T08:24:52Z"
+      },
+      {
+        "author": "@burgerchild",
+        "text": "This would have been an excellent 40 minute class in college. The knowledge is there in college, just spread out. this is clear and consise. Thanks for your work!",
+        "like_count": 40,
+        "published_at": "2022-11-16T00:19:41Z"
+      },
+      {
+        "author": "@emmy_thoughts",
+        "text": "Awesome video.<br>Very impactful!",
+        "like_count": 1,
+        "published_at": "2021-10-03T21:44:54Z"
+      },
+      {
+        "author": "@DorianIten",
+        "text": "Very useful, thank you, Tobias!",
+        "like_count": 0,
+        "published_at": "2024-05-19T06:10:56Z"
+      },
+      {
+        "author": "@apuravela",
+        "text": "&quot;You an always abort and try again&quot; loved it, thanks!",
+        "like_count": 0,
+        "published_at": "2022-07-12T14:26:10Z"
+      },
+      {
+        "author": "@savitapandey6604",
+        "text": "This is the best channel i would suggest every one if they are beginners",
+        "like_count": 1,
+        "published_at": "2021-10-01T16:26:10Z"
+      },
+      {
+        "author": "@kiwiwelch3620",
+        "text": "Something so simple is so complicated and nerve racking",
+        "like_count": 0,
+        "published_at": "2022-11-14T15:41:38Z"
+      },
+      {
+        "author": "@ClaudioBOsorio",
+        "text": "Man I love these videos. I wish I had the time to watch the whole channel and visit every contributor. Much love &lt;3",
+        "like_count": 0,
+        "published_at": "2022-07-02T21:41:25Z"
+      },
+      {
+        "author": "@mahdiporkar236",
+        "text": "Great video. Watched the whole thing and didn&#39;t even notice the time.",
+        "like_count": 0,
+        "published_at": "2024-04-09T18:03:36Z"
+      },
+      {
+        "author": "@MrStarcraftangle",
+        "text": "so SIMPLE explanation of REBASE. Thank you for that \ud83e\udd70",
+        "like_count": 0,
+        "published_at": "2022-11-19T10:20:00Z"
+      },
+      {
+        "author": "@legion_prex3650",
+        "text": "finally i understood hunks. Thank you, you needed just 2 minutes to explain it :)",
+        "like_count": 0,
+        "published_at": "2024-07-24T17:02:32Z"
+      },
+      {
+        "author": "@nibbanapatipada9538",
+        "text": "Man! your voice is soo soothing, whenever I get started watching this video, I fall asleep in 5 minutes.",
+        "like_count": 2,
+        "published_at": "2021-10-07T02:31:46Z"
+      },
+      {
+        "author": "@stevenschelling8452",
+        "text": "Phenomenal video. These types of dev tutorials can be so dry but you made it highly visible and explained things simply and clearly. Thanks!",
+        "like_count": 16,
+        "published_at": "2022-05-12T17:55:48Z"
+      },
+      {
+        "author": "@nayaleezy",
+        "text": "main and feature branches are all we ever need",
+        "like_count": 0,
+        "published_at": "2023-04-16T13:16:36Z"
+      },
+      {
+        "author": "@congminhluu5068",
+        "text": "that&#39;s such a cool explanation of rebase. The visual helped a lot! Glad I stuck till the end",
+        "like_count": 0,
+        "published_at": "2022-07-02T19:14:26Z"
+      },
+      {
+        "author": "@iiaaannnn",
+        "text": "Love this video especially the pace of the video so much!",
+        "like_count": 0,
+        "published_at": "2023-03-06T22:27:42Z"
+      },
+      {
+        "author": "@jiren8991",
+        "text": "WOW! I was just looking for this. Thanks y&#39;all",
+        "like_count": 1,
+        "published_at": "2021-09-30T13:26:28Z"
+      },
+      {
+        "author": "@mahdiporkar236",
+        "text": "Do NOT create a pull request to the Rails repo. This is just a demonstration and every frivolous PR creates extra work for their volunteer team.",
+        "like_count": 51,
+        "published_at": "2024-04-09T18:50:49Z"
+      },
+      {
+        "author": "@fakedevdutt",
+        "text": "Its been more than 2 years of development i didn&#39;t know there was a -p option in add command it could have helped me soo much in past but I am sure it will help me more in future thanks man!!",
+        "like_count": 0,
+        "published_at": "2023-10-23T13:10:12Z"
+      },
+      {
+        "author": "@ChanonJ",
+        "text": "Great lesson for most of new dev guy who need to use GIT here. Highly recommended :)",
+        "like_count": 0,
+        "published_at": "2023-09-25T09:23:30Z"
+      },
+      {
+        "author": "@DavidLindes",
+        "text": "I&#39;m glad you started with git add -p.  I always teach that to folks when I can... it&#39;s so useful!",
+        "like_count": 0,
+        "published_at": "2022-01-25T05:17:39Z"
+      },
+      {
+        "author": "@AshwinPrakashKadayil",
+        "text": "Awesome video.  Please keep educating us. Thanks",
+        "like_count": 0,
+        "published_at": "2024-05-12T11:03:38Z"
+      },
+      {
+        "author": "@zucc4764",
+        "text": "One topic in and I knew this is premium stuff. Thank you for this!",
+        "like_count": 0,
+        "published_at": "2022-01-12T14:07:38Z"
+      },
+      {
+        "author": "@python-programming",
+        "text": "Looking forward to this!",
+        "like_count": 1,
+        "published_at": "2021-09-30T13:25:59Z"
+      },
+      {
+        "author": "@romanmasiar122",
+        "text": "The way you explain things is simply....awesome. Thanks !!!",
+        "like_count": 0,
+        "published_at": "2022-10-09T21:11:55Z"
+      }
+    ]
+  },
+  "summary": {
+    "video_id": "Uszj_k0DGsg",
+    "title": "Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git",
+    "summary": "This course focuses on using Git with the command line. You can download Tower's Git desktop UI here: https://www.git-tower.com/learn/git/advanced-git-kit. Christoph Waltz is the founder of the Git. er team. He gave a 40-minute talk on how to use Git. The talk was streamed live on the Scrimba channel.",
+    "view_count": 1874098,
+    "engagement_score": 2.32
+  }
+}
