@@ -3,7 +3,7 @@ google-auth==2.25.2
 google-auth-oauthlib==1.1.0
 google-auth-httplib2==0.2.0
 transformers==4.36.0
-torch==2.1.0
+torch>=2.5.0
 openai-whisper==20250625
 ffmpeg-python==0.2.0
 streamlit==1.29.0
