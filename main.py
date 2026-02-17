@@ -28,7 +28,7 @@ def main():
     
     args = parser.parse_args()
     
-    # Load environment variables
+    # Load environment variables dd
     load_dotenv()
     
     api_key = args.api_key or os.getenv('YOUTUBE_API_KEY')
